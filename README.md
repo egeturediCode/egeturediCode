@@ -18,7 +18,7 @@
 
 ### About Me
 - I'm studying at Karadeniz Technical University.
-- I’m currently working on a ** Software as a Service Project.
+- I’m currently working on a Software as a Service Project.
 - I’m currently learning in the field of Cyber Security.
 - How to reach me: turedi.ege07@gmail.com
 
@@ -32,11 +32,18 @@
 
 ---
 
-### SYSTEM METRICS
+### System Metrics
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=egeturediCode&theme=dark&hide_border=true" />
-  
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=egeturediCode&layout=compact&theme=matrix&hide_border=true&langs_count=6" />
+  <table align="center">
+    <tr>
+      <td align="center">
+        <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=egeturediCode&theme=dark&hide_border=true" />
+      </td>
+      <td align="center">
+        <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=egeturediCode&layout=compact&theme=matrix&hide_border=true&langs_count=6" />
+      </td>
+    </tr>
+  </table>
 </p>
 
 ---
