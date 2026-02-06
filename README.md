@@ -1,35 +1,42 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=25&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Initializing+System...;Access+Granted+to+Hidden+Server;Scanning+Repositories...;Welcome+to+the+Profile;egeturediCode" alt="Typing SVG" />
-  </a>
-</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/EXPERT-FRONTEND-000000?style=for-the-badge&logo=codeforces&logoColor=00FF41&labelColor=000000&color=FAFAFA" alt="Frontend" />
+  <img src="https://img.shields.io/badge/LEARNING-BACKEND-000000?style=for-the-badge&logo=django&logoColor=00FF41&labelColor=000000&color=FAFAFA" alt="Backend" />
+  <img src="https://img.shields.io/badge/INTEREST-CYBERSECURITY-000000?style=for-the-badge&logo=kali-linux&logoColor=00FF41&labelColor=000000&color=FAFAFA" alt="Cyber" />
+  <img src="https://img.shields.io/badge/MINDSET-DONT_GIVE_UP-000000?style=for-the-badge&logo=target&logoColor=00FF41&labelColor=000000&color=FAFAFA" alt="Mindset" />
+</p>
 
 <p align="center">
   <img src="assets/space-shooter.gif" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4169E1&center=true&vCenter=true&width=435&lines=Frontend+Developer;Backend+Learner;CyberSecurity+Enthusiast;Don't+Give+Up" alt="Typing SVG" />
-</p>
+<h1 align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=10&color=00FF41&center=false&width=800&repeat=false&duration=2000&lines=%3E+BOOTING+OS...;%3E+IP+STMT:+192.168.1.104+CONNECTED" alt="Line 1" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=10&color=00FF41&center=false&width=800&repeat=false&duration=2000&lines=;;%3E+AUTH:+GRANTED;%3E+STATUS:+BYPASSING+FIREWALL...100%25" alt="Line 2" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=10&color=00FF41&center=false&width=800&repeat=false&duration=2000&lines=;;;;%3E+SCANNING+REPOS...;%3E+FOUND:+7+ENCRYPTED+OBJECTS" alt="Line 3" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=10&color=00FF41&center=false&width=800&repeat=false&duration=2000&lines=;;;;;;%3E+ACCESSING+MAINFRAME...;%3E+WELCOME,+OPERATOR._" alt="Line 4" />
+</h1>
 
 ### About Me
-- I’m currently working on a ** Software as a Service Project **
-- I’m currently learning in the field of ** Cyber Security **
+- I'm studying at Karadeniz Technical University.
+- I’m currently working on a ** Software as a Service Project.
+- I’m currently learning in the field of Cyber Security.
 - How to reach me: turedi.ege07@gmail.com
 
 ---
 
 ### Tech Stack & Tools
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,django,python,html,css,git,docker,kali,linux,vscode" />
 </p>
 
 ---
 
-### GitHub Stats
+### SYSTEM METRICS
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=egeturediCode&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=egeturediCode&layout=compact&theme=tokyonight&langs_count=6" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=egeturediCode&theme=dark&hide_border=true" />
+  
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=egeturediCode&layout=compact&theme=matrix&hide_border=true&langs_count=6" />
 </p>
 
 ---
@@ -49,6 +56,8 @@
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00bfff&height=100&section=footer" />
+<p align="center"> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=footer" /> 
 </p>
+
+
