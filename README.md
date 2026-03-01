@@ -18,11 +18,13 @@
 
 ### About Me
 - I'm studying at Karadeniz Technical University.
-- I’m currently working on a Software as a Service Project.
 - I’m currently learning in the field of Cyber Security.
 - How to reach me: turedi.ege07@gmail.com
 
 ---
+
+### Organization Projects
+- https://github.com/nislive-egeturedi/log-analyzer-agent
 
 ### Tech Stack & Tools
 
